@@ -1,7 +1,8 @@
 # Описание обзора на библиотеку SymPy
 ![image](https://github.com/user-attachments/assets/c1ae9082-4b44-4798-9f43-8d8793d05e12)
 
-(ссылка на офицальный сайт - https://docs.sympy.org/latest/tutorials/intro-tutorial/manipulation.html)
+(ссылка на офицальный сайт - https://docs.sympy.org/latest/tutorials/intro-tutorial/manipulation.html
+)
 В моем рассказе библиотеки я показал стандартные функции, а потом примеры посложнее. Функции, показанные в файле:
 1. *Арифметические корни ( рациональные)*
 2. *форма выдачи иррациональных корней*
