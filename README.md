@@ -5,5 +5,4 @@
 3. *решение уравнений*
 4. *Тригонометрия*
 5. **что-то сложнее 4го пунтка, что я не знаю как называется**
-Inline-style: 
-![alt text![image](https://github.com/user-attachments/assets/e10a4a1a-d602-4fd7-aa5c-807ca3ec6448)
+
